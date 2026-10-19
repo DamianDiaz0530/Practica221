@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica221</string>
+    <string name="nombre" translatable="false">Damian</string>
+    <string name="apellido" translatable="false">Diaz</string>
+    <string name="materia" >Desarrollo de aplicaciones mobiles </string>
+    <string name="bottom_app_bar">Texto de abajo</string>
+    <string name="home_fab_text">Botón agregar</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="snackbar_msg">Elemento agregado</string>
+    <string name="snackbar_action">Deshacer</string>
+
+</resources>
